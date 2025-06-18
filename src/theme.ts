@@ -37,7 +37,7 @@ export const getDesignTokens = (mode: PaletteMode) => ({
           contrastText: '#fff'
         },
         success: {
-          main: '#00a79d '
+          main: '#00a79d'
         },
         border: {
           main: '#000'
